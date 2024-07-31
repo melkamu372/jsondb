@@ -1,0 +1,50 @@
+const BANKS = [
+  {
+    id: 0,
+    name: "CBE",
+    currencies: [
+      { id: 0, name: "USD", icon: "🇺🇸", buy: 74.7364, sell: 76.2311 },
+      { id: 1, name: "EUR", icon: "🇪🇺", buy: 81.0367, sell: 82.6574 },
+    ],
+  },
+  {
+    id: 1,
+    name: "Awash Bank",
+    currencies: [
+      { id: 0, name: "USD", icon: "🇺🇸", buy: 74.7364, sell: 76.2311 },
+      { id: 1, name: "EUR", icon: "🇪🇺", buy: 81.0367, sell: 82.6574 },
+    ],
+  },
+  {
+    id: 2,
+    name: "Bank of Abyssinia",
+    currencies: [
+       { id: 0, name: "USD", icon: "🇺🇸", buy: 74.7364, sell: 76.2311 },
+      { id: 1, name: "EUR", icon: "🇪🇺", buy: 81.0367, sell: 82.6574 },
+    ],
+  },
+  {
+    id: 3,
+    name: "Dashen Bank",
+    currencies: [
+      { id: 0, name: "USD", icon: "🇺🇸", buy: 74.7364, sell: 76.2311 },
+      { id: 1, name: "EUR", icon: "🇪🇺", buy: 81.0367, sell: 82.6574 },
+    ],
+  },
+  {
+    id: 4,
+    name: "Nib Int'l Bank",
+    currencies: [
+       { id: 0, name: "USD", icon: "🇺🇸", buy: 74.7364, sell: 76.2311 },
+      { id: 1, name: "EUR", icon: "🇪🇺", buy: 81.0367, sell: 82.6574 },
+    ],
+  },
+  {
+    id: 5,
+    name: "Wegagen Bank",
+    currencies: [
+      { id: 0, name: "USD", icon: "🇺🇸", buy: 74.7364, sell: 76.2311 },
+      { id: 1, name: "EUR", icon: "🇪🇺", buy: 81.0367, sell: 82.6574 },
+    ],
+  },
+];
