@@ -14,7 +14,7 @@
     },
     {
       "id": 1,
-      "name": "Addis International Bank",
+      "name": "Addis Int'l Bank",
       "currencies": [
         { "id": 0, "name": "USD", "icon": "🇺🇸", "buy": 74.7364, "sell": 76.2311 },
         { "id": 1, "name": "EUR", "icon": "🇪🇺", "buy": 81.0367, "sell": 82.6574 },
@@ -105,7 +105,7 @@
     },
     {
       "id": 8,
-      "name": "Commercial Bank of Ethiopia (CBE)",
+      "name": "CBE",
       "currencies": [
         { "id": 0, "name": "USD", "icon": "🇺🇸", "buy": 74.7364, "sell": 76.2311 },
         { "id": 1, "name": "EUR", "icon": "🇪🇺", "buy": 81.0367, "sell": 82.6574 },
