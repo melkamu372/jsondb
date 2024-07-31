@@ -1,4 +1,4 @@
-const BANKS = [
+[
   {
     id: 0,
     name: "CBE",
@@ -47,4 +47,4 @@ const BANKS = [
       { id: 1, name: "EUR", icon: "🇪🇺", buy: 81.0367, sell: 82.6574 },
     ],
   },
-];
+]
