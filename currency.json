@@ -1,50 +1,80 @@
 [
   {
-    id: 0,
-    name: "CBE",
-    currencies: [
-      { id: 0, name: "USD", icon: "🇺🇸", buy: 74.7364, sell: 76.2311 },
-      { id: 1, name: "EUR", icon: "🇪🇺", buy: 81.0367, sell: 82.6574 },
-    ],
+    "id": 0,
+    "name": "CBE",
+    "currencies": [
+      { "id": 0, "name": "USD", "icon": "🇺🇸", "buy": 74.7364, "sell": 76.2311 },
+      { "id": 1, "name": "EUR", "icon": "🇪🇺", "buy": 81.0367, "sell": 82.6574 },
+      { "id": 2, "name": "GBP", "icon": "🇬🇧", "buy": 92.8374, "sell": 94.5832 },
+      { "id": 3, "name": "CAD", "icon": "🇨🇦", "buy": 59.1234, "sell": 60.3456 },
+      { "id": 4, "name": "SAR", "icon": "🇸🇦", "buy": 19.8745, "sell": 20.2345 },
+      { "id": 5, "name": "AED", "icon": "🇦🇪", "buy": 20.8745, "sell": 21.2345 },
+      { "id": 6, "name": "CNY", "icon": "🇨🇳", "buy": 11.5432, "sell": 11.9876 }
+    ]
   },
   {
-    id: 1,
-    name: "Awash Bank",
-    currencies: [
-      { id: 0, name: "USD", icon: "🇺🇸", buy: 74.7364, sell: 76.2311 },
-      { id: 1, name: "EUR", icon: "🇪🇺", buy: 81.0367, sell: 82.6574 },
-    ],
+    "id": 1,
+    "name": "Awash Bank",
+    "currencies": [
+      { "id": 0, "name": "USD", "icon": "🇺🇸", "buy": 74.7364, "sell": 76.2311 },
+      { "id": 1, "name": "EUR", "icon": "🇪🇺", "buy": 81.0367, "sell": 82.6574 },
+      { "id": 2, "name": "GBP", "icon": "🇬🇧", "buy": 92.8374, "sell": 94.5832 },
+      { "id": 3, "name": "CAD", "icon": "🇨🇦", "buy": 59.1234, "sell": 60.3456 },
+      { "id": 4, "name": "SAR", "icon": "🇸🇦", "buy": 19.8745, "sell": 20.2345 },
+      { "id": 5, "name": "AED", "icon": "🇦🇪", "buy": 20.8745, "sell": 21.2345 },
+      { "id": 6, "name": "CNY", "icon": "🇨🇳", "buy": 11.5432, "sell": 11.9876 }
+    ]
   },
   {
-    id: 2,
-    name: "Bank of Abyssinia",
-    currencies: [
-       { id: 0, name: "USD", icon: "🇺🇸", buy: 74.7364, sell: 76.2311 },
-      { id: 1, name: "EUR", icon: "🇪🇺", buy: 81.0367, sell: 82.6574 },
-    ],
+    "id": 2,
+    "name": "Bank of Abyssinia",
+    "currencies": [
+      { "id": 0, "name": "USD", "icon": "🇺🇸", "buy": 74.7364, "sell": 76.2311 },
+      { "id": 1, "name": "EUR", "icon": "🇪🇺", "buy": 81.0367, "sell": 82.6574 },
+      { "id": 2, "name": "GBP", "icon": "🇬🇧", "buy": 92.8374, "sell": 94.5832 },
+      { "id": 3, "name": "CAD", "icon": "🇨🇦", "buy": 59.1234, "sell": 60.3456 },
+      { "id": 4, "name": "SAR", "icon": "🇸🇦", "buy": 19.8745, "sell": 20.2345 },
+      { "id": 5, "name": "AED", "icon": "🇦🇪", "buy": 20.8745, "sell": 21.2345 },
+      { "id": 6, "name": "CNY", "icon": "🇨🇳", "buy": 11.5432, "sell": 11.9876 }
+    ]
   },
   {
-    id: 3,
-    name: "Dashen Bank",
-    currencies: [
-      { id: 0, name: "USD", icon: "🇺🇸", buy: 74.7364, sell: 76.2311 },
-      { id: 1, name: "EUR", icon: "🇪🇺", buy: 81.0367, sell: 82.6574 },
-    ],
+    "id": 3,
+    "name": "Dashen Bank",
+    "currencies": [
+      { "id": 0, "name": "USD", "icon": "🇺🇸", "buy": 74.7364, "sell": 76.2311 },
+      { "id": 1, "name": "EUR", "icon": "🇪🇺", "buy": 81.0367, "sell": 82.6574 },
+      { "id": 2, "name": "GBP", "icon": "🇬🇧", "buy": 92.8374, "sell": 94.5832 },
+      { "id": 3, "name": "CAD", "icon": "🇨🇦", "buy": 59.1234, "sell": 60.3456 },
+      { "id": 4, "name": "SAR", "icon": "🇸🇦", "buy": 19.8745, "sell": 20.2345 },
+      { "id": 5, "name": "AED", "icon": "🇦🇪", "buy": 20.8745, "sell": 21.2345 },
+      { "id": 6, "name": "CNY", "icon": "🇨🇳", "buy": 11.5432, "sell": 11.9876 }
+    ]
   },
   {
-    id: 4,
-    name: "Nib Int'l Bank",
-    currencies: [
-       { id: 0, name: "USD", icon: "🇺🇸", buy: 74.7364, sell: 76.2311 },
-      { id: 1, name: "EUR", icon: "🇪🇺", buy: 81.0367, sell: 82.6574 },
-    ],
+    "id": 4,
+    "name": "Nib Int'l Bank",
+    "currencies": [
+      { "id": 0, "name": "USD", "icon": "🇺🇸", "buy": 74.7364, "sell": 76.2311 },
+      { "id": 1, "name": "EUR", "icon": "🇪🇺", "buy": 81.0367, "sell": 82.6574 },
+      { "id": 2, "name": "GBP", "icon": "🇬🇧", "buy": 92.8374, "sell": 94.5832 },
+      { "id": 3, "name": "CAD", "icon": "🇨🇦", "buy": 59.1234, "sell": 60.3456 },
+      { "id": 4, "name": "SAR", "icon": "🇸🇦", "buy": 19.8745, "sell": 20.2345 },
+      { "id": 5, "name": "AED", "icon": "🇦🇪", "buy": 20.8745, "sell": 21.2345 },
+      { "id": 6, "name": "CNY", "icon": "🇨🇳", "buy": 11.5432, "sell": 11.9876 }
+    ]
   },
   {
-    id: 5,
-    name: "Wegagen Bank",
-    currencies: [
-      { id: 0, name: "USD", icon: "🇺🇸", buy: 74.7364, sell: 76.2311 },
-      { id: 1, name: "EUR", icon: "🇪🇺", buy: 81.0367, sell: 82.6574 },
-    ],
-  },
+    "id": 5,
+    "name": "Wegagen Bank",
+    "currencies": [
+      { "id": 0, "name": "USD", "icon": "🇺🇸", "buy": 74.7364, "sell": 76.2311 },
+      { "id": 1, "name": "EUR", "icon": "🇪🇺", "buy": 81.0367, "sell": 82.6574 },
+      { "id": 2, "name": "GBP", "icon": "🇬🇧", "buy": 92.8374, "sell": 94.5832 },
+      { "id": 3, "name": "CAD", "icon": "🇨🇦", "buy": 59.1234, "sell": 60.3456 },
+      { "id": 4, "name": "SAR", "icon": "🇸🇦", "buy": 19.8745, "sell": 20.2345 },
+      { "id": 5, "name": "AED", "icon": "🇦🇪", "buy": 20.8745, "sell": 21.2345 },
+      { "id": 6, "name": "CNY", "icon": "🇨🇳", "buy": 11.5432, "sell": 11.9876 }
+    ]
+  }
 ]
