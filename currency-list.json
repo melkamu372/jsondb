@@ -1,38 +1,44 @@
 [
-    {
-      "code": "USD",
-      "name": "US Dollar",
-       "icon": "🇺🇸"
-    },
-    {
-      "code": "EUR",
-      "name": "Euro",
-     "icon": "🇪🇺"
-    },
-    {
-      "code": "GBP",
-      "name": "Pound Sterling",
-      "icon": "🇬🇧"
-    },
-    {
-      "code": "CAD",
-      "name": "Canadian Dollar",
-      "icon": "🇨🇦"
-    },
-    {
-      "code": "AED",
-      "name": "United Arab Emirates Dirham",
-     "icon": "🇦🇪"
-    },
-    {
-      "code": "SAR",
-      "name": "Saudi Riyal",
-      "icon": "🇸🇦"
-    },
-    {
-      "code": "CNY",
-      "name": "Chinese Yuan",
-     "icon": "🇨🇳"
-    }
+  {
+    "code": "USD",
+    "name": "US Dollar",
+    "icon": "🇺🇸",
+    "flag": "US"
+  },
+  {
+    "code": "EUR",
+    "name": "Euro",
+    "icon": "🇪🇺",
+    "flag": "EU"
+  },
+  {
+    "code": "GBP",
+    "name": "Pound Sterling",
+    "icon": "🇬🇧",
+    "flag": "GB"
+  },
+  {
+    "code": "CAD",
+    "name": "Canadian Dollar",
+    "icon": "🇨🇦",
+    "flag": "CA"
+  },
+  {
+    "code": "AED",
+    "name": "United Arab Emirates Dirham",
+    "icon": "🇦🇪",
+    "flag": "AE"
+  },
+  {
+    "code": "SAR",
+    "name": "Saudi Riyal",
+    "icon": "🇸🇦",
+    "flag": "SA"
+  },
+  {
+    "code": "CNY",
+    "name": "Chinese Yuan",
+    "icon": "🇨🇳",
+    "flag": "CN"
+  }
 ]
-
