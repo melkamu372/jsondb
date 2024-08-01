@@ -1,5 +1,4 @@
-{
-  "currencies": [
+[
     {
       "code": "USD",
       "name": "US Dollar",
@@ -36,4 +35,4 @@
      "icon": "🇨🇳"
     }
   ]
-}
+
