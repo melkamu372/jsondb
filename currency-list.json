@@ -3,37 +3,37 @@
     {
       "code": "USD",
       "name": "US Dollar",
-      "flag": "us"
+       "icon": "🇺🇸"
     },
     {
       "code": "EUR",
       "name": "Euro",
-      "flag": "eu"
+     "icon": "🇪🇺"
     },
     {
       "code": "GBP",
       "name": "Pound Sterling",
-      "flag": "gb"
+      "icon": "🇬🇧",
     },
     {
       "code": "CAD",
       "name": "Canadian Dollar",
-      "flag": "ca"
+      "icon": "🇨🇦"
     },
     {
       "code": "AED",
       "name": "United Arab Emirates Dirham",
-      "flag": "ae"
+     "icon": "🇦🇪"
     },
     {
       "code": "SAR",
       "name": "Saudi Riyal",
-      "flag": "sa"
+      "icon": "🇸🇦"
     },
     {
       "code": "CNY",
       "name": "Chinese Yuan",
-      "flag": "cn"
+     "icon": "🇨🇳"
     }
   ]
 }
