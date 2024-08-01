@@ -1,0 +1,39 @@
+{
+  "currencies": [
+    {
+      "code": "USD",
+      "name": "US Dollar",
+      "flag": "us"
+    },
+    {
+      "code": "EUR",
+      "name": "Euro",
+      "flag": "eu"
+    },
+    {
+      "code": "GBP",
+      "name": "Pound Sterling",
+      "flag": "gb"
+    },
+    {
+      "code": "CAD",
+      "name": "Canadian Dollar",
+      "flag": "ca"
+    },
+    {
+      "code": "AED",
+      "name": "United Arab Emirates Dirham",
+      "flag": "ae"
+    },
+    {
+      "code": "SAR",
+      "name": "Saudi Riyal",
+      "flag": "sa"
+    },
+    {
+      "code": "CNY",
+      "name": "Chinese Yuan",
+      "flag": "cn"
+    }
+  ]
+}
