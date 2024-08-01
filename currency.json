@@ -1,7 +1,23 @@
- [
+[
+    
     {
-      "id": 0,
+        "id": 0,
+        "name": "CBE",
+        "logo": "cbe",
+        "currencies": [
+          { "id": 0, "name": "USD", "icon": "🇺🇸", "buy": 74.7364, "sell": 76.2311,"tBuy": 81.0203, "tSell": 81.0203 },
+          { "id": 1, "name": "EUR", "icon": "🇪🇺", "buy": 81.0367, "sell": 82.6574 ,"tBuy": 81.0203, "tSell": 81.0203},
+          { "id": 2, "name": "GBP", "icon": "🇬🇧", "buy": 92.8374, "sell": 94.5832,"tBuy": 81.0203, "tSell": 81.0203 },
+          { "id": 3, "name": "CAD", "icon": "🇨🇦", "buy": 59.1234, "sell": 60.3456 ,"tBuy": 81.0203, "tSell": 81.0203},
+          { "id": 4, "name": "SAR", "icon": "🇸🇦", "buy": 19.8745, "sell": 20.2345,"tBuy": 81.0203, "tSell": 81.0203 },
+          { "id": 5, "name": "AED", "icon": "🇦🇪", "buy": 20.8745, "sell": 21.2345,"tBuy": 81.0203, "tSell": 81.0203 },
+          { "id": 6, "name": "CNY", "icon": "🇨🇳", "buy": 11.5432, "sell": 11.9876,"tBuy": 81.0203, "tSell": 81.0203 }
+        ]
+      },
+    {
+      "id": 1,
       "name": "Abay Bank",
+      "logo": "abay",
       "currencies": [
         { "id": 0, "name": "USD", "icon": "🇺🇸", "buy": 80.0203, "sell": 80.0203, "tBuy": 81.0203, "tSell": 81.0203 },
         { "id": 1, "name": "EUR", "icon": "🇪🇺", "buy": 81.0367, "sell": 82.6574 , "tBuy": 81.0203, "tSell": 81.0203},
@@ -13,7 +29,8 @@
       ]
     },
     {
-      "id": 1,
+      "id": 2,
+      "logo": "addis",
       "name": "Addis Int'l Bank",
       "currencies": [
         { "id": 0, "name": "USD", "icon": "🇺🇸", "buy": 74.7364, "sell": 76.2311 , "tBuy": 81.0203, "tSell": 81.0203},
@@ -26,8 +43,9 @@
       ]
     },
     {
-      "id": 2,
+      "id": 3,
       "name": "Ahadu Bank",
+      "logo": "ahadu",
       "currencies": [
         { "id": 0, "name": "USD", "icon": "🇺🇸", "buy": 74.7364, "sell": 76.2311 , "tBuy": 81.0203, "tSell": 81.0203},
         { "id": 1, "name": "EUR", "icon": "🇪🇺", "buy": 81.0367, "sell": 82.6574 , "tBuy": 81.0203, "tSell": 81.0203},
@@ -39,8 +57,9 @@
       ]
     },
     {
-      "id": 3,
+      "id": 4,
       "name": "Amhara Bank",
+      "logo": "amara",
       "currencies": [
         { "id": 0, "name": "USD", "icon": "🇺🇸", "buy": 74.7364, "sell": 76.2311 , "tBuy": 81.0203, "tSell": 81.0203},
         { "id": 1, "name": "EUR", "icon": "🇪🇺", "buy": 81.0367, "sell": 82.6574 , "tBuy": 81.0203, "tSell": 81.0203},
@@ -52,8 +71,9 @@
       ]
     },
     {
-      "id": 4,
+      "id": 5,
       "name": "Awash Bank",
+      "logo": "awash",
       "currencies": [
         { "id": 0, "name": "USD", "icon": "🇺🇸", "buy": 74.7364, "sell": 76.2311, "tBuy": 81.0203, "tSell": 81.0203 },
         { "id": 1, "name": "EUR", "icon": "🇪🇺", "buy": 81.0367, "sell": 82.6574, "tBuy": 81.0203, "tSell": 81.0203 },
@@ -65,21 +85,9 @@
       ]
     },
     {
-      "id": 5,
-      "name": "Bank of Abyssinia",
-      "currencies": [
-        { "id": 0, "name": "USD", "icon": "🇺🇸", "buy": 74.7364, "sell": 76.2311 },
-        { "id": 1, "name": "EUR", "icon": "🇪🇺", "buy": 81.0367, "sell": 82.6574 },
-        { "id": 2, "name": "GBP", "icon": "🇬🇧", "buy": 92.8374, "sell": 94.5832 },
-        { "id": 3, "name": "CAD", "icon": "🇨🇦", "buy": 59.1234, "sell": 60.3456 },
-        { "id": 4, "name": "SAR", "icon": "🇸🇦", "buy": 19.8745, "sell": 20.2345 },
-        { "id": 5, "name": "AED", "icon": "🇦🇪", "buy": 20.8745, "sell": 21.2345 },
-        { "id": 6, "name": "CNY", "icon": "🇨🇳", "buy": 11.5432, "sell": 11.9876 }
-      ]
-    },
-    {
       "id": 6,
-      "name": "Berhan Bank",
+      "name": "Bank of Abyssinia",
+      "logo": "abyssinia",
       "currencies": [
         { "id": 0, "name": "USD", "icon": "🇺🇸", "buy": 74.7364, "sell": 76.2311 },
         { "id": 1, "name": "EUR", "icon": "🇪🇺", "buy": 81.0367, "sell": 82.6574 },
@@ -92,7 +100,8 @@
     },
     {
       "id": 7,
-      "name": "Bunna Bank",
+      "name": "Berhan Bank",
+      "logo": "birhan",
       "currencies": [
         { "id": 0, "name": "USD", "icon": "🇺🇸", "buy": 74.7364, "sell": 76.2311 },
         { "id": 1, "name": "EUR", "icon": "🇪🇺", "buy": 81.0367, "sell": 82.6574 },
@@ -105,7 +114,8 @@
     },
     {
       "id": 8,
-      "name": "CBE",
+      "name": "Bunna Bank",
+      "logo": "buna",
       "currencies": [
         { "id": 0, "name": "USD", "icon": "🇺🇸", "buy": 74.7364, "sell": 76.2311 },
         { "id": 1, "name": "EUR", "icon": "🇪🇺", "buy": 81.0367, "sell": 82.6574 },
@@ -116,9 +126,11 @@
         { "id": 6, "name": "CNY", "icon": "🇨🇳", "buy": 11.5432, "sell": 11.9876 }
       ]
     },
+   
     {
       "id": 9,
       "name": "Coop",
+      "logo": "coop",
       "currencies": [
         { "id": 0, "name": "USD", "icon": "🇺🇸", "buy": 74.7364, "sell": 76.2311 },
         { "id": 1, "name": "EUR", "icon": "🇪🇺", "buy": 81.0367, "sell": 82.6574 },
@@ -132,6 +144,7 @@
     {
       "id": 10,
       "name": "Dashen Bank",
+      "logo": "dashen",
       "currencies": [
         { "id": 0, "name": "USD", "icon": "🇺🇸", "buy": 74.7364, "sell": 76.2311 },
         { "id": 1, "name": "EUR", "icon": "🇪🇺", "buy": 81.0367, "sell": 82.6574 },
@@ -145,19 +158,7 @@
     {
       "id": 11,
       "name": "Enat Bank",
-      "currencies": [
-        { "id": 0, "name": "USD", "icon": "🇺🇸", "buy": 74.7364, "sell": 76.2311 },
-        { "id": 1, "name": "EUR", "icon": "🇪🇺", "buy": 81.0367, "sell": 82.6574 },
-        { "id": 2, "name": "GBP", "icon": "🇬🇧", "buy": 92.8374, "sell": 94.5832 },
-        { "id": 3, "name": "CAD", "icon": "🇨🇦", "buy": 59.1234, "sell": 60.3456 },
-        { "id": 4, "name": "SAR", "icon": "🇸🇦", "buy": 19.8745, "sell": 20.2345 },
-        { "id": 5, "name": "AED", "icon": "🇦🇪", "buy": 20.8745, "sell": 21.2345 },
-        { "id": 6, "name": "CNY", "icon": "🇨🇳", "buy": 11.5432, "sell": 11.9876 }
-      ]
-    },
-    {
-      "id": 12,
-      "name": "Global Bank Ethiopia",
+      "logo": "enat",
       "currencies": [
         { "id": 0, "name": "USD", "icon": "🇺🇸", "buy": 74.7364, "sell": 76.2311 },
         { "id": 1, "name": "EUR", "icon": "🇪🇺", "buy": 81.0367, "sell": 82.6574 },
@@ -171,6 +172,7 @@
     {
       "id": 13,
       "name": "Gadaa Bank",
+      "logo": "gedda",
       "currencies": [
         { "id": 0, "name": "USD", "icon": "🇺🇸", "buy": 74.7364, "sell": 76.2311 },
         { "id": 1, "name": "EUR", "icon": "🇪🇺", "buy": 81.0367, "sell": 82.6574 },
@@ -184,6 +186,7 @@
     {
       "id": 14,
       "name": "Hibret Bank",
+      "logo": "hibret",
       "currencies": [
         { "id": 0, "name": "USD", "icon": "🇺🇸", "buy": 74.7364, "sell": 76.2311 },
         { "id": 1, "name": "EUR", "icon": "🇪🇺", "buy": 81.0367, "sell": 82.6574 },
@@ -197,6 +200,7 @@
     {
       "id": 15,
       "name": "Lion Bank",
+      "logo": "lion",
       "currencies": [
         { "id": 0, "name": "USD", "icon": "🇺🇸", "buy": 74.7364, "sell": 76.2311 },
         { "id": 1, "name": "EUR", "icon": "🇪🇺", "buy": 81.0367, "sell": 82.6574 },
@@ -210,6 +214,7 @@
     {
       "id": 16,
       "name": "Hijra Bank",
+      "logo": "hijra",
       "currencies": [
         { "id": 0, "name": "USD", "icon": "🇺🇸", "buy": 74.7364, "sell": 76.2311 },
         { "id": 1, "name": "EUR", "icon": "🇪🇺", "buy": 81.0367, "sell": 82.6574 },
@@ -223,6 +228,7 @@
     {
       "id": 17,
       "name": "Oromia Bank",
+      "logo": "oromia",
       "currencies": [
         { "id": 0, "name": "USD", "icon": "🇺🇸", "buy": 74.7364, "sell": 76.2311 },
         { "id": 1, "name": "EUR", "icon": "🇪🇺", "buy": 81.0367, "sell": 82.6574 },
@@ -236,6 +242,7 @@
     {
       "id": 18,
       "name": "Nib Bank",
+      "logo": "nib",
       "currencies": [
         { "id": 0, "name": "USD", "icon": "🇺🇸", "buy": 74.7364, "sell": 76.2311 },
         { "id": 1, "name": "EUR", "icon": "🇪🇺", "buy": 81.0367, "sell": 82.6574 },
@@ -249,6 +256,7 @@
     {
       "id": 19,
       "name": "Siinqee Bank",
+      "logo": "siinqee",
       "currencies": [
         { "id": 0, "name": "USD", "icon": "🇺🇸", "buy": 74.7364, "sell": 76.2311 },
         { "id": 1, "name": "EUR", "icon": "🇪🇺", "buy": 81.0367, "sell": 82.6574 },
@@ -263,6 +271,8 @@
     {
         "id": 20,
         "name": "Shabelle Bank",
+
+        "logo": "shabel",
         "currencies": [
           { "id": 0, "name": "USD", "icon": "🇺🇸", "buy": 74.7364, "sell": 76.2311 },
           { "id": 1, "name": "EUR", "icon": "🇪🇺", "buy": 81.0367, "sell": 82.6574 },
@@ -277,6 +287,7 @@
       {
         "id": 21,
         "name": "Tsehay Bank",
+        "logo": "tsehay",
         "currencies": [
           { "id": 0, "name": "USD", "icon": "🇺🇸", "buy": 74.7364, "sell": 76.2311 },
           { "id": 1, "name": "EUR", "icon": "🇪🇺", "buy": 81.0367, "sell": 82.6574 },
@@ -291,6 +302,7 @@
       {
         "id": 22,
         "name": "Tsedey Bank",
+        "logo": "tsedey",
         "currencies": [
           { "id": 0, "name": "USD", "icon": "🇺🇸", "buy": 74.7364, "sell": 76.2311 },
           { "id": 1, "name": "EUR", "icon": "🇪🇺", "buy": 81.0367, "sell": 82.6574 },
@@ -305,6 +317,7 @@
       {
         "id": 23,
         "name": "Wegagen Bank",
+        "logo": "wegagen",
         "currencies": [
           { "id": 0, "name": "USD", "icon": "🇺🇸", "buy": 74.7364, "sell": 76.2311 },
           { "id": 1, "name": "EUR", "icon": "🇪🇺", "buy": 81.0367, "sell": 82.6574 },
@@ -319,6 +332,7 @@
       {
         "id": 24,
         "name": "ZamZam Bank",
+        "logo": "zamzam",
         "currencies": [
           { "id": 0, "name": "USD", "icon": "🇺🇸", "buy": 74.7364, "sell": 76.2311 },
           { "id": 1, "name": "EUR", "icon": "🇪🇺", "buy": 81.0367, "sell": 82.6574 },
@@ -331,8 +345,9 @@
       }
       ,
       {
-        "id": 25,
+        "id": 12,
         "name": "Zemen Bank",
+        "logo": "zemen",
         "currencies": [
           { "id": 0, "name": "USD", "icon": "🇺🇸", "buy": 74.7364, "sell": 76.2311 },
           { "id": 1, "name": "EUR", "icon": "🇪🇺", "buy": 81.0367, "sell": 82.6574 },
